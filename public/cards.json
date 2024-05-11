@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "title": "Software Engineer",
+    "bio": "Passionate and skilled software engineer with 3+ years of experience building web applications. Adept in various technologies like React, Node.js, and Python.",
+    "imageUrl": "../src/image/img-01.jpg",
+    "readTime": 3,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@AliceJSoftware"
+    }
+  },
+  {
+    "id": 2,
+    "name": "David Lee",
+    "title": "Marketing Manager",
+    "bio": "Creative and results-oriented marketing professional with a knack for brand storytelling. Experienced in developing and executing successful marketing campaigns.",
+    "imageUrl": "../src/image/img-02.jpg",
+    "readTime": 4,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@DavidLeeMktg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sarah Jones",
+    "title": "Graphic Designer",
+    "bio": "Talented and innovative graphic designer with a strong eye for detail. Skilled in creating visually appealing and impactful designs for various mediums.",
+    "imageUrl": "../src/image/img-03.jpg",
+    "readTime": 7,
+    "quantity":1, 
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@SarahJDesigns"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "title": "Content Writer",
+    "bio": "Engaging and informative content writer with a passion for crafting compelling stories. Adept at SEO best practices and content marketing strategies.",
+    "imageUrl": "../src/image/img-04.jpg",
+    "readTime": 5,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@MikeWritesContent"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Emily Garcia",
+    "title": "Product Manager",
+    "bio": "Strategic and analytical product manager with a focus on user experience. Skilled in product research, development, and launch processes.",
+    "imageUrl": "../src/image/img-05.jpg",
+    "readTime": 4,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@EmilyGPM"
+    }
+  },
+  {
+    "id": 6,
+    "name": "William Chen",
+    "title": "Data Scientist",
+    "bio": "Data-driven and analytical data scientist with expertise in extracting insights from large datasets. Skilled in machine learning, data visualization, and statistical modeling.",
+    "imageUrl": "../src/image/img-06.jpg",
+    "readTime": 6,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@WilliamDataSci"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Olivia Baker",
+    "title": "UI/UX Designer",
+    "bio": "User-centric UI/UX designer with a focus on creating intuitive and user-friendly interfaces. Skilled in user research, wireframing, prototyping, and design thinking.",
+    "imageUrl": "../src/image/img-07.jpg",
+    "readTime": 9,
+    "quantity":1,
+    "socialLinks": {
+      "linkedin": "[Your Company LinkedIn URL]",
+      "twitter": "@OliviaUIUX"
+    }
+  }
+]

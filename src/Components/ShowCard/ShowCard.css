@@ -1,0 +1,28 @@
+.mark{
+  text-decoration: underline;
+
+}
+.mark:hover{
+  color: rgb(11, 25, 218);
+}
+.title-name-header{
+  margin-top: 25px;
+  gap: 50px;
+  align-items: center;
+  display: flex;
+}
+.pro-pic{
+  
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+.read-time{
+  margin-left: 250px;
+}
+.main-img{
+   width: 800px;
+   height: 600px;
+   border: 20px;
+   border-radius: 20px;
+}
