@@ -4,7 +4,7 @@
     "name": "Alice Johnson",
     "title": "Software Engineer",
     "bio": "Passionate and skilled software engineer with 3+ years of experience building web applications. Adept in various technologies like React, Node.js, and Python.",
-    "imageUrl": "../src/image/img-01.jpg",
+    "imageUrl": "https://i.ibb.co/cbjrfdj/scott-graham-5f-Nm-Wej4t-AA-unsplash.jpg",
     "readTime": 3,
     "quantity":1,
     "socialLinks": {
@@ -17,7 +17,7 @@
     "name": "David Lee",
     "title": "Marketing Manager",
     "bio": "Creative and results-oriented marketing professional with a knack for brand storytelling. Experienced in developing and executing successful marketing campaigns.",
-    "imageUrl": "../src/image/img-02.jpg",
+    "imageUrl": "https://i.ibb.co/bQzjDMP/mohammad-rahmani-Fx34-Keq-IEw-unsplash.jpg",
     "readTime": 4,
     "quantity":1,
     "socialLinks": {
@@ -30,7 +30,7 @@
     "name": "Sarah Jones",
     "title": "Graphic Designer",
     "bio": "Talented and innovative graphic designer with a strong eye for detail. Skilled in creating visually appealing and impactful designs for various mediums.",
-    "imageUrl": "../src/image/img-03.jpg",
+    "imageUrl": "https://i.ibb.co/Z1ym389/max-duzij-q-Aj-Jk-un3-BI-unsplash.jpg",
     "readTime": 7,
     "quantity":1, 
     "socialLinks": {
@@ -43,7 +43,7 @@
     "name": "Michael Brown",
     "title": "Content Writer",
     "bio": "Engaging and informative content writer with a passion for crafting compelling stories. Adept at SEO best practices and content marketing strategies.",
-    "imageUrl": "../src/image/img-04.jpg",
+    "imageUrl": "https://i.ibb.co/7nS8vPy/thisisengineering-64-Yr-PKigu-AE-unsplash.jpg",
     "readTime": 5,
     "quantity":1,
     "socialLinks": {
@@ -56,7 +56,7 @@
     "name": "Emily Garcia",
     "title": "Product Manager",
     "bio": "Strategic and analytical product manager with a focus on user experience. Skilled in product research, development, and launch processes.",
-    "imageUrl": "../src/image/img-05.jpg",
+    "imageUrl": "https://i.ibb.co/qJR2sh0/fotis-fotopoulos-Du-HKo-V44prg-unsplash.jpg",
     "readTime": 4,
     "quantity":1,
     "socialLinks": {
@@ -69,7 +69,7 @@
     "name": "William Chen",
     "title": "Data Scientist",
     "bio": "Data-driven and analytical data scientist with expertise in extracting insights from large datasets. Skilled in machine learning, data visualization, and statistical modeling.",
-    "imageUrl": "../src/image/img-06.jpg",
+    "imageUrl": "https://i.ibb.co/PWLMsSw/ales-nesetril-Im7l-Zjxe-Lhg-unsplash.jpg",
     "readTime": 6,
     "quantity":1,
     "socialLinks": {
@@ -82,7 +82,7 @@
     "name": "Olivia Baker",
     "title": "UI/UX Designer",
     "bio": "User-centric UI/UX designer with a focus on creating intuitive and user-friendly interfaces. Skilled in user research, wireframing, prototyping, and design thinking.",
-    "imageUrl": "../src/image/img-07.jpg",
+    "imageUrl": "https://i.ibb.co/HBSxPpr/chris-ried-ieic5-Tq8-YMk-unsplash.jpg",
     "readTime": 9,
     "quantity":1,
     "socialLinks": {

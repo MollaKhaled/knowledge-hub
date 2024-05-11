@@ -3,6 +3,7 @@ import './ShowCard.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBookmark} from '@fortawesome/free-solid-svg-icons'
 
+
 const ShowCard = (props) => {
  
   const { id, name, title, bio, imageUrl, readTime, socialLinks } = props.card;

@@ -12,7 +12,7 @@ const Card = () => {
     fetch('cards.json')
     .then(res=> res.json())
     .then(data =>setCards(data))
-  },[])
+  },[cards])
 
   const handleAddToCart = (card) => {
     const newRead = [...read,card];
